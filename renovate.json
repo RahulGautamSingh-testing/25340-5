@@ -1,0 +1,9 @@
+{
+  "packageRules": [
+    {
+      "matchDepNames": ["xmldoc", "nodemon"],
+      "labels": ["hii"]
+    }
+  ],
+  "prHourlyLimit": 10
+}
