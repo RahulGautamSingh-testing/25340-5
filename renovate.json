@@ -5,6 +5,6 @@
       "labels": ["hii"]
     }
   ],
-  "addLabels": ["hello"]
+  "addLabels": ["hello"],
   "prHourlyLimit": 10
 }
